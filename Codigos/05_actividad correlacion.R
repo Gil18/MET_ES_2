@@ -69,3 +69,4 @@ y.pr <- -1.874016 + 0.075628*erup
 
 #el rango de los valores de x son mi ventana de prediccion de yprima 
 #range(erupciones$waiting)
+
