@@ -60,3 +60,5 @@ TukeyHSD(dap.aov)
 
 #encontarr las diferencias significativas
 plot(TukeyHSD(dap.aov))
+
+
