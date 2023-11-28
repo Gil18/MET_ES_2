@@ -54,3 +54,7 @@ clase 2: 08/08/2023
 # Actividad 7 Correlacion 
 
 + :dart: se aprendio a realizar la correlacion.
+
+# Actividad 8 PIA
+
++ :dart: se utilizaron todos los codigos aprendidos en clase para la elaboracion del PIA
