@@ -25,6 +25,7 @@ clase 2: 08/08/2023
 
 + :dart:clase 3: 15/08/2023
 
+
 # Actividad 4 Grafico boxplot y importacion de datos 
 
 + :dart:Se nos proporciono una tabla de datos y se importo en RStudios
@@ -50,11 +51,50 @@ clase 2: 08/08/2023
 + :dart:se explico como se resumian los datos y se hicieron graficas para comparar 
 
  clase 6: 28/08/2023
+ 
+# Actividad 7
+ 
++ :dart:Realizamos de nuevo la hipotesis con la finalidad de mejorar nuestra habilidad para generar hipotesis
 
-# Actividad 7 Correlacion 
+Clase 7: 29/08/2023
 
-+ :dart: se aprendio a realizar la correlacion.
 
-# Actividad 8 PIA
+# Actividad 8
+
++ :dart:Realizamos una actividad en la que teniamos que comparar el crecimiento del diametro de arboles que se les puso fertilizante y arboles que no tenian fertilizante
+
+Clase 8: 05/09/2023
+
+# Acitividad 9
+
++ :dart: Aprendimos a sacar la correlación de un conjunto de datos
+Clase# 9 25/09/2023
+
+# Actividad 10
+
++ :dart:El profesor nos proporcionó unos datos y con esos datos sacamos la media y la varianza, asi como el coeficiente de correlación e hicmos una gráfica
+
+Clase 10: 26/09/2023
+
+# Actividad 11 correlacion
+
++ :dart: se aprendio a realizar la correlacion
+
+Clase 11: 02/10/2023
+
+# Actividad 12 Regrecion lineal 
+
++ :dart: Realizamos una actividad sobre la regresión lineal
+
+Clase 12: 09/10/2023
+
+# Actividad 13 analisis de varianza 
+
+Realizamos una actividad sobre el análisis de varianza
+
+Clase 13: 10/10/2023
+
+
+# Actividad 14 PIA
 
 + :dart: se utilizaron todos los codigos aprendidos en clase para la elaboracion del PIA
