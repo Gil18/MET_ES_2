@@ -98,3 +98,9 @@ Clase 13: 10/10/2023
 # Actividad 14 PIA
 
 + :dart: se utilizaron todos los codigos aprendidos en clase para la elaboracion del PIA
+
+# Actividad 15 se elaboro el examen final 
+
++ :dart: se elaboro el examen final en la ultima clase
+
+  Clase: 29/11/2023
