@@ -104,3 +104,6 @@ Clase 13: 10/10/2023
 + :dart: se elaboro el examen final en la ultima clase
 
   Clase: 29/11/2023
+
+  ![image](https://github.com/Gil18/MET_ES_2/assets/141651826/52981849-39a9-41f8-945e-1fe3d838a9b1)
+
